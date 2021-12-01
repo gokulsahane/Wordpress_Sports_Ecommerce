@@ -1,0 +1,6 @@
+2021-06-10T07:42:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\mcasem2\wp-includes\http.php on line 549
+
+2021-06-10T07:45:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\mcasem2\wp-includes\Requests\Transport\cURL.php on line 162
+
+2021-06-10T07:47:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\mcasem2\wp-includes\Requests\Transport\cURL.php on line 162
+

@@ -1,0 +1,6 @@
+2021-06-08T14:24:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\mcasem2\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php on line 87
+
+2021-06-08T14:24:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\mcasem2\wp-includes\Requests\Transport\cURL.php on line 437
+
+2021-06-08T14:54:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\mcasem2\wp-includes\Requests\Transport\cURL.php on line 437
+
